@@ -1,0 +1,8 @@
+site_name: Chai's Cool Website
+
+nav:
+  - Home: index.md
+
+plugins:
+  - monorepo
+  - techdocs-core

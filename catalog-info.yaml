@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: very-cool-website-by-chai
+  title: Chai's Cool Website
+  description: A static HTML website. Just like the good old days.
+  links:
+    - url: https://Ducksss.github.io/very-cool-website-by-chai/
+      title: Live website
+  annotations:
+    github.com/project-slug: Ducksss/very-cool-website-by-chai
+spec:
+  type: website
+  owner: engineering
+  lifecycle: experimental
